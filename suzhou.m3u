@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-name="苏州新闻综合" tvg-id="苏州新闻综合" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9b/%E8%8B%8F%E5%B7%9E%E5%B9%BF%E7%94%B5.JPG/300px-%E8%8B%8F%E5%B7%9E%E5%B9%BF%E7%94%B5.JPG" group-title="苏州",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="苏州社会经济" tvg-id="苏州社会经济" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9b/%E8%8B%8F%E5%B7%9E%E5%B9%BF%E7%94%B5.JPG/300px-%E8%8B%8F%E5%B7%9E%E5%B9%BF%E7%94%B5.JPG" group-title="苏州",苏州社会经济
