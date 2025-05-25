@@ -1,0 +1,1935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv info-name="by Yikun Wang" info-url="https://yikunwang.com">
+	<channel id="苏州新闻综合">
+		<display-name lang="zh">苏州新闻综合</display-name>
+	</channel>
+	<programme channel="苏州新闻综合" start="20250522070000 +0800" end="20250522074500 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522074500 +0800" end="20250522104000 +0800">
+		<title lang="zh">阳光剧场：父辈的荣耀（7-9）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522104000 +0800" end="20250522110000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522110000 +0800" end="20250522115000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522115000 +0800" end="20250522154000 +0800">
+		<title lang="zh">风云剧场：潜行者（16-19）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522154000 +0800" end="20250522161000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522161000 +0800" end="20250522163000 +0800">
+		<title lang="zh">世界大观</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522163000 +0800" end="20250522172500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（23）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522172500 +0800" end="20250522180000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522180000 +0800" end="20250522183000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522183000 +0800" end="20250522190000 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522190000 +0800" end="20250522193000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522193000 +0800" end="20250522211000 +0800">
+		<title lang="zh">星空剧场：洪湖英雄传（34-35）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522211000 +0800" end="20250522215000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522215000 +0800" end="20250522222000 +0800">
+		<title lang="zh">苏州要闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522222000 +0800" end="20250522225000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522225000 +0800" end="20250522231000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522231000 +0800" end="20250522235500 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250522235500 +0800" end="20250523070000 +0800">
+		<title lang="zh">星梦剧场：南洋女儿情 （8-16）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523070000 +0800" end="20250523074500 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523074500 +0800" end="20250523104000 +0800">
+		<title lang="zh">阳光剧场：父辈的荣耀（10-12）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523104000 +0800" end="20250523110000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523110000 +0800" end="20250523115000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523115000 +0800" end="20250523154000 +0800">
+		<title lang="zh">风云剧场：潜行者（20-23）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523154000 +0800" end="20250523161000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523161000 +0800" end="20250523163000 +0800">
+		<title lang="zh">世界大观</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523163000 +0800" end="20250523172500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（24）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523172500 +0800" end="20250523180000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523180000 +0800" end="20250523183000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523183000 +0800" end="20250523190000 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523190000 +0800" end="20250523193000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523193000 +0800" end="20250523211000 +0800">
+		<title lang="zh">星空剧场：?（1-2）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523211000 +0800" end="20250523215000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523215000 +0800" end="20250523222000 +0800">
+		<title lang="zh">苏州要闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523222000 +0800" end="20250523225000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523225000 +0800" end="20250523231000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523231000 +0800" end="20250523235500 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250523235500 +0800" end="20250524070000 +0800">
+		<title lang="zh">星梦剧场：南洋女儿情 （17-25）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524070000 +0800" end="20250524074500 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524074500 +0800" end="20250524104000 +0800">
+		<title lang="zh">阳光剧场：父辈的荣耀（13-15）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524104000 +0800" end="20250524110000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524110000 +0800" end="20250524115000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524115000 +0800" end="20250524154000 +0800">
+		<title lang="zh">风云剧场：潜行者（24-27）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524154000 +0800" end="20250524161000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524161000 +0800" end="20250524163000 +0800">
+		<title lang="zh">世界大观</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524163000 +0800" end="20250524172500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（25）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524172500 +0800" end="20250524180000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524180000 +0800" end="20250524183000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524183000 +0800" end="20250524190000 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524190000 +0800" end="20250524193000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524193000 +0800" end="20250524211000 +0800">
+		<title lang="zh">星空剧场：?（3-4）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524211000 +0800" end="20250524215000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524215000 +0800" end="20250524222000 +0800">
+		<title lang="zh">苏州要闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524222000 +0800" end="20250524225000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524225000 +0800" end="20250524231000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524231000 +0800" end="20250524235500 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250524235500 +0800" end="20250525070000 +0800">
+		<title lang="zh">星梦剧场：南洋女儿情 （26-34）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525070000 +0800" end="20250525074500 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525074500 +0800" end="20250525104000 +0800">
+		<title lang="zh">阳光剧场：父辈的荣耀（16-18）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525104000 +0800" end="20250525110000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525110000 +0800" end="20250525115000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525115000 +0800" end="20250525150000 +0800">
+		<title lang="zh">月末评弹纪念评弹艺术家蒋云仙专场</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525150000 +0800" end="20250525154000 +0800">
+		<title lang="zh">苏城议事厅</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525154000 +0800" end="20250525161000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525161000 +0800" end="20250525163000 +0800">
+		<title lang="zh">世界大观</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525163000 +0800" end="20250525171000 +0800">
+		<title lang="zh">昆剧电视专场雪峰之吟厅堂版【三】</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525171000 +0800" end="20250525172500 +0800">
+		<title lang="zh">手语新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525172500 +0800" end="20250525180000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525180000 +0800" end="20250525183000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525183000 +0800" end="20250525190000 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525190000 +0800" end="20250525193000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525193000 +0800" end="20250525211000 +0800">
+		<title lang="zh">星空剧场：?（5-6）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525211000 +0800" end="20250525215000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525215000 +0800" end="20250525222000 +0800">
+		<title lang="zh">苏州要闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525222000 +0800" end="20250525225000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525225000 +0800" end="20250525231000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525231000 +0800" end="20250525235500 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250525235500 +0800" end="20250526043000 +0800">
+		<title lang="zh">星梦剧场：南洋女儿情 （35-40）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526043000 +0800" end="20250526070000 +0800">
+		<title lang="zh">珠江人家 （1-3）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526070000 +0800" end="20250526074500 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526074500 +0800" end="20250526104000 +0800">
+		<title lang="zh">阳光剧场：父辈的荣耀（19-21）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526104000 +0800" end="20250526110000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526110000 +0800" end="20250526115000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526115000 +0800" end="20250526154000 +0800">
+		<title lang="zh">风云剧场：潜行者（28-31）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526154000 +0800" end="20250526161000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526161000 +0800" end="20250526163000 +0800">
+		<title lang="zh">世界大观</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526163000 +0800" end="20250526172500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（26）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526172500 +0800" end="20250526180000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526180000 +0800" end="20250526183000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526183000 +0800" end="20250526190000 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526190000 +0800" end="20250526193000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526193000 +0800" end="20250526211000 +0800">
+		<title lang="zh">星空剧场：独立纵队2（7-8）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526211000 +0800" end="20250526215000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526215000 +0800" end="20250526222000 +0800">
+		<title lang="zh">苏州要闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526222000 +0800" end="20250526225000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526225000 +0800" end="20250526231000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526231000 +0800" end="20250526235500 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250526235500 +0800" end="20250527070000 +0800">
+		<title lang="zh">星梦剧场：珠江人家 （4-12）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527070000 +0800" end="20250527074500 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527074500 +0800" end="20250527104000 +0800">
+		<title lang="zh">阳光剧场：父辈的荣耀（22-24）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527104000 +0800" end="20250527110000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527110000 +0800" end="20250527115000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527115000 +0800" end="20250527154000 +0800">
+		<title lang="zh">风云剧场：潜行者（32-35）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527154000 +0800" end="20250527161000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527161000 +0800" end="20250527163000 +0800">
+		<title lang="zh">世界大观</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527163000 +0800" end="20250527172500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（27）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527172500 +0800" end="20250527180000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527180000 +0800" end="20250527183000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527183000 +0800" end="20250527190000 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527190000 +0800" end="20250527193000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527193000 +0800" end="20250527202000 +0800">
+		<title lang="zh">苏城议事厅</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527202000 +0800" end="20250527211000 +0800">
+		<title lang="zh">独立纵队2（9）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527211000 +0800" end="20250527215000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527215000 +0800" end="20250527222000 +0800">
+		<title lang="zh">苏州要闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527222000 +0800" end="20250527225000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527225000 +0800" end="20250527231000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527231000 +0800" end="20250527235500 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250527235500 +0800" end="20250528070000 +0800">
+		<title lang="zh">星梦剧场：珠江人家 （13-21）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528070000 +0800" end="20250528074500 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528074500 +0800" end="20250528104000 +0800">
+		<title lang="zh">阳光剧场：父辈的荣耀（25-27）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528104000 +0800" end="20250528110000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528110000 +0800" end="20250528115000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528115000 +0800" end="20250528134500 +0800">
+		<title lang="zh">风云剧场：潜行者（36-37）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528134500 +0800" end="20250528154000 +0800">
+		<title lang="zh">追风者（1-2）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528154000 +0800" end="20250528161000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528161000 +0800" end="20250528163000 +0800">
+		<title lang="zh">世界大观</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528163000 +0800" end="20250528172500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（28）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528172500 +0800" end="20250528180000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528180000 +0800" end="20250528183000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528183000 +0800" end="20250528190000 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528190000 +0800" end="20250528193000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528193000 +0800" end="20250528211000 +0800">
+		<title lang="zh">星空剧场：独立纵队2（10-11）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528211000 +0800" end="20250528215000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528215000 +0800" end="20250528222000 +0800">
+		<title lang="zh">苏州要闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528222000 +0800" end="20250528225000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528225000 +0800" end="20250528231000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528231000 +0800" end="20250528235500 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250528235500 +0800" end="20250529070000 +0800">
+		<title lang="zh">星梦剧场：珠江人家 （22-30）</title>
+	</programme>
+	<channel id="苏州社会经济">
+		<display-name lang="zh">苏州社会经济</display-name>
+	</channel>
+	<programme channel="苏州社会经济" start="20250522065000 +0800" end="20250522073000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522073000 +0800" end="20250522083000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522083000 +0800" end="20250522090500 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522090500 +0800" end="20250522094100 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522094100 +0800" end="20250522102300 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522102300 +0800" end="20250522112000 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（22）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522112000 +0800" end="20250522120000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522120000 +0800" end="20250522131000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522131000 +0800" end="20250522140000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522140000 +0800" end="20250522145000 +0800">
+		<title lang="zh">小靴子星乐园</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522145000 +0800" end="20250522160000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522160000 +0800" end="20250522164500 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522164500 +0800" end="20250522174000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522174000 +0800" end="20250522180000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522180000 +0800" end="20250522183000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522183000 +0800" end="20250522193000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522193000 +0800" end="20250522194300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522194300 +0800" end="20250522220000 +0800">
+		<title lang="zh">新天地剧场：小满生活（31-33）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522220000 +0800" end="20250522223100 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522223100 +0800" end="20250522230100 +0800">
+		<title lang="zh">传真聚焦</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522230100 +0800" end="20250522232600 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522232600 +0800" end="20250522234100 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250522234100 +0800" end="20250523000100 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523000100 +0800" end="20250523001300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523001300 +0800" end="20250523065000 +0800">
+		<title lang="zh">深夜剧场：薄冰（16-24）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523065000 +0800" end="20250523073000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523073000 +0800" end="20250523083000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523083000 +0800" end="20250523090500 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523090500 +0800" end="20250523094100 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523094100 +0800" end="20250523102300 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523102300 +0800" end="20250523112000 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（23）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523112000 +0800" end="20250523120000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523120000 +0800" end="20250523131000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523131000 +0800" end="20250523140000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523140000 +0800" end="20250523145000 +0800">
+		<title lang="zh">小靴子星乐园</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523145000 +0800" end="20250523160000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523160000 +0800" end="20250523164500 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523164500 +0800" end="20250523174000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523174000 +0800" end="20250523180000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523180000 +0800" end="20250523183000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523183000 +0800" end="20250523193000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523193000 +0800" end="20250523194300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523194300 +0800" end="20250523220000 +0800">
+		<title lang="zh">新天地剧场：小满生活（34-36）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523220000 +0800" end="20250523223100 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523223100 +0800" end="20250523230100 +0800">
+		<title lang="zh">传真聚焦</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523230100 +0800" end="20250523232600 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523232600 +0800" end="20250523234100 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250523234100 +0800" end="20250524000100 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524000100 +0800" end="20250524001300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524001300 +0800" end="20250524065000 +0800">
+		<title lang="zh">深夜剧场：薄冰（25-33）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524065000 +0800" end="20250524073000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524073000 +0800" end="20250524083000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524083000 +0800" end="20250524090500 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524090500 +0800" end="20250524094100 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524094100 +0800" end="20250524102300 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524102300 +0800" end="20250524112000 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（24）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524112000 +0800" end="20250524120000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524120000 +0800" end="20250524131000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524131000 +0800" end="20250524140000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524140000 +0800" end="20250524145000 +0800">
+		<title lang="zh">小靴子我是TV星</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524145000 +0800" end="20250524160000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524160000 +0800" end="20250524164500 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524164500 +0800" end="20250524174000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524174000 +0800" end="20250524180000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524180000 +0800" end="20250524183000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524183000 +0800" end="20250524193000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524193000 +0800" end="20250524194300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524194300 +0800" end="20250524220000 +0800">
+		<title lang="zh">新天地剧场：小满生活（37-38）？（1）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524220000 +0800" end="20250524223100 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524223100 +0800" end="20250524230100 +0800">
+		<title lang="zh">传真聚焦</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524230100 +0800" end="20250524232600 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524232600 +0800" end="20250524234100 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250524234100 +0800" end="20250525000100 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525000100 +0800" end="20250525001300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525001300 +0800" end="20250525051500 +0800">
+		<title lang="zh">深夜剧场：薄冰（34-40）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525051500 +0800" end="20250525065000 +0800">
+		<title lang="zh">信仰（1-2）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525065000 +0800" end="20250525073000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525073000 +0800" end="20250525083000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525083000 +0800" end="20250525090500 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525090500 +0800" end="20250525094100 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525094100 +0800" end="20250525102300 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525102300 +0800" end="20250525112000 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（25）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525112000 +0800" end="20250525120000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525120000 +0800" end="20250525131000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525131000 +0800" end="20250525140000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525140000 +0800" end="20250525145000 +0800">
+		<title lang="zh">小靴子我是TV星</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525145000 +0800" end="20250525160000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525160000 +0800" end="20250525164500 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525164500 +0800" end="20250525174000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525174000 +0800" end="20250525180000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525180000 +0800" end="20250525183000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525183000 +0800" end="20250525193000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525193000 +0800" end="20250525194300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525194300 +0800" end="20250525220000 +0800">
+		<title lang="zh">新天地剧场：</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525220000 +0800" end="20250525223100 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525223100 +0800" end="20250525230100 +0800">
+		<title lang="zh">传真聚焦</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525230100 +0800" end="20250525232600 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525232600 +0800" end="20250525234100 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250525234100 +0800" end="20250526000100 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526000100 +0800" end="20250526001300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526001300 +0800" end="20250526065000 +0800">
+		<title lang="zh">深夜剧场：信仰（3-11）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526065000 +0800" end="20250526073000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526073000 +0800" end="20250526083000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526083000 +0800" end="20250526090500 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526090500 +0800" end="20250526094100 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526094100 +0800" end="20250526102300 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526102300 +0800" end="20250526112000 +0800">
+		<title lang="zh">昆剧电视专场雪峰之吟厅堂版【三】江苏省苏州昆剧院</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526112000 +0800" end="20250526120000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526120000 +0800" end="20250526131000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526131000 +0800" end="20250526140000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526140000 +0800" end="20250526145000 +0800">
+		<title lang="zh">小靴子星乐园</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526145000 +0800" end="20250526160000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526160000 +0800" end="20250526164500 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526164500 +0800" end="20250526174000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526174000 +0800" end="20250526180000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526180000 +0800" end="20250526183000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526183000 +0800" end="20250526193000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526193000 +0800" end="20250526194300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526194300 +0800" end="20250526220000 +0800">
+		<title lang="zh">新天地剧场：梅花红桃（7-9）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526220000 +0800" end="20250526223100 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526223100 +0800" end="20250526230100 +0800">
+		<title lang="zh">传真聚焦</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526230100 +0800" end="20250526232600 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526232600 +0800" end="20250526234100 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250526234100 +0800" end="20250527000100 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527000100 +0800" end="20250527001300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527001300 +0800" end="20250527065000 +0800">
+		<title lang="zh">深夜剧场：信仰（12-20）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527065000 +0800" end="20250527073000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527073000 +0800" end="20250527083000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527083000 +0800" end="20250527090500 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527090500 +0800" end="20250527094100 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527094100 +0800" end="20250527102300 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527102300 +0800" end="20250527112000 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（26）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527112000 +0800" end="20250527120000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527120000 +0800" end="20250527131000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527131000 +0800" end="20250527140000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527140000 +0800" end="20250527145000 +0800">
+		<title lang="zh">小靴子星乐园</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527145000 +0800" end="20250527160000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527160000 +0800" end="20250527164500 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527164500 +0800" end="20250527174000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527174000 +0800" end="20250527180000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527180000 +0800" end="20250527183000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527183000 +0800" end="20250527193000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527193000 +0800" end="20250527194300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527194300 +0800" end="20250527220000 +0800">
+		<title lang="zh">新天地剧场：梅花红桃（10-12）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527220000 +0800" end="20250527223100 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527223100 +0800" end="20250527230100 +0800">
+		<title lang="zh">传真聚焦</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527230100 +0800" end="20250527232600 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527232600 +0800" end="20250527234100 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250527234100 +0800" end="20250528000100 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528000100 +0800" end="20250528001300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528001300 +0800" end="20250528065000 +0800">
+		<title lang="zh">深夜剧场：信仰（21-29）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528065000 +0800" end="20250528073000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528073000 +0800" end="20250528083000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528083000 +0800" end="20250528090500 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528090500 +0800" end="20250528094100 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528094100 +0800" end="20250528102300 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528102300 +0800" end="20250528112000 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（27）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528112000 +0800" end="20250528120000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528120000 +0800" end="20250528131000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528131000 +0800" end="20250528140000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528140000 +0800" end="20250528145000 +0800">
+		<title lang="zh">小靴子星乐园</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528145000 +0800" end="20250528160000 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528160000 +0800" end="20250528164500 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528164500 +0800" end="20250528174000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528174000 +0800" end="20250528180000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528180000 +0800" end="20250528183000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528183000 +0800" end="20250528193000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528193000 +0800" end="20250528194300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528194300 +0800" end="20250528220000 +0800">
+		<title lang="zh">新天地剧场：梅花红桃（13-15）</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528220000 +0800" end="20250528223100 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528223100 +0800" end="20250528230100 +0800">
+		<title lang="zh">传真聚焦</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528230100 +0800" end="20250528232600 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528232600 +0800" end="20250528234100 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250528234100 +0800" end="20250529000100 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250529000100 +0800" end="20250529001300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250529001300 +0800" end="20250529065000 +0800">
+		<title lang="zh">深夜剧场：信仰（30-38）</title>
+	</programme>
+	<channel id="苏州文化生活">
+		<display-name lang="zh">苏州文化生活</display-name>
+	</channel>
+	<programme channel="苏州文化生活" start="20250414062000 +0800" end="20250414081000 +0800">
+		<title lang="zh">魅力剧场：燃烧（25-26）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414081000 +0800" end="20250414105100 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414105100 +0800" end="20250414134500 +0800">
+		<title lang="zh">情感剧场：诚忠堂（44-46）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414134500 +0800" end="20250414154000 +0800">
+		<title lang="zh">生活剧场：我们的日子（28-29）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414154000 +0800" end="20250414180000 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414180000 +0800" end="20250414183000 +0800">
+		<title lang="zh">教育节目</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414183000 +0800" end="20250414201000 +0800">
+		<title lang="zh">五星剧场：小城故事多（19-20）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414201000 +0800" end="20250414222500 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414222500 +0800" end="20250414224000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414224000 +0800" end="20250414225800 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414225800 +0800" end="20250414231800 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414231800 +0800" end="20250414234800 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250414234800 +0800" end="20250415003000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250415003000 +0800" end="20250415062000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427062000 +0800" end="20250427081000 +0800">
+		<title lang="zh">魅力剧场：他是谁（17-18）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427081000 +0800" end="20250427105100 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427105100 +0800" end="20250427134500 +0800">
+		<title lang="zh">情感剧场：芝麻胡同（37-39）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427134500 +0800" end="20250427154000 +0800">
+		<title lang="zh">生活剧场：爱拼会赢（16-17）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427154000 +0800" end="20250427180000 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427180000 +0800" end="20250427183000 +0800">
+		<title lang="zh">教育节目</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427183000 +0800" end="20250427201000 +0800">
+		<title lang="zh">五星剧场：大盛魁（15-16）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427201000 +0800" end="20250427222500 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427222500 +0800" end="20250427224000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427224000 +0800" end="20250427225800 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427225800 +0800" end="20250427231800 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427231800 +0800" end="20250427234800 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250427234800 +0800" end="20250428003000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250428003000 +0800" end="20250428062000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523062000 +0800" end="20250523081000 +0800">
+		<title lang="zh">魅力剧场：无所畏惧（6-7）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523081000 +0800" end="20250523105100 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523105100 +0800" end="20250523134500 +0800">
+		<title lang="zh">情感剧场：爱人同志（25-27）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523134500 +0800" end="20250523154000 +0800">
+		<title lang="zh">生活剧场：小巷人家（28-29）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523154000 +0800" end="20250523180000 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523180000 +0800" end="20250523183000 +0800">
+		<title lang="zh">教育节目</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523183000 +0800" end="20250523201000 +0800">
+		<title lang="zh">五星剧场：榆阳秋（11-12）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523201000 +0800" end="20250523222500 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523222500 +0800" end="20250523224000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523224000 +0800" end="20250523225800 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523225800 +0800" end="20250523231800 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523231800 +0800" end="20250523234800 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250523234800 +0800" end="20250524003000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524003000 +0800" end="20250524062000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524062000 +0800" end="20250524081000 +0800">
+		<title lang="zh">魅力剧场：无所畏惧（8-9）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524081000 +0800" end="20250524105100 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524105100 +0800" end="20250524134500 +0800">
+		<title lang="zh">情感剧场：爱人同志（28-30）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524134500 +0800" end="20250524154000 +0800">
+		<title lang="zh">生活剧场：小巷人家（30-31）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524154000 +0800" end="20250524180000 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524180000 +0800" end="20250524183000 +0800">
+		<title lang="zh">教育节目</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524183000 +0800" end="20250524201000 +0800">
+		<title lang="zh">五星剧场：榆阳秋（13-14）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524201000 +0800" end="20250524222500 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524222500 +0800" end="20250524224000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524224000 +0800" end="20250524225800 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524225800 +0800" end="20250524231800 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524231800 +0800" end="20250524234800 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250524234800 +0800" end="20250525003000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525003000 +0800" end="20250525062000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525062000 +0800" end="20250525081000 +0800">
+		<title lang="zh">魅力剧场：无所畏惧（10-11）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525081000 +0800" end="20250525105100 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525105100 +0800" end="20250525134500 +0800">
+		<title lang="zh">情感剧场：爱人同志（31-33）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525134500 +0800" end="20250525154000 +0800">
+		<title lang="zh">生活剧场：小巷人家（32-33）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525154000 +0800" end="20250525180000 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525180000 +0800" end="20250525183000 +0800">
+		<title lang="zh">教育节目</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525183000 +0800" end="20250525201000 +0800">
+		<title lang="zh">五星剧场：榆阳秋（15-16）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525201000 +0800" end="20250525222500 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525222500 +0800" end="20250525224000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525224000 +0800" end="20250525225800 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525225800 +0800" end="20250525231800 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525231800 +0800" end="20250525234800 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250525234800 +0800" end="20250526003000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526003000 +0800" end="20250526062000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526062000 +0800" end="20250526081000 +0800">
+		<title lang="zh">魅力剧场：无所畏惧（12-13）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526081000 +0800" end="20250526105100 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526105100 +0800" end="20250526134500 +0800">
+		<title lang="zh">情感剧场：爱人同志（34-36）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526134500 +0800" end="20250526154000 +0800">
+		<title lang="zh">生活剧场：小巷人家（34-35）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526154000 +0800" end="20250526180000 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526180000 +0800" end="20250526183000 +0800">
+		<title lang="zh">教育节目</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526183000 +0800" end="20250526201000 +0800">
+		<title lang="zh">五星剧场：榆阳秋（17-18）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526201000 +0800" end="20250526222500 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526222500 +0800" end="20250526224000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526224000 +0800" end="20250526225800 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526225800 +0800" end="20250526231800 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526231800 +0800" end="20250526234800 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250526234800 +0800" end="20250527003000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527003000 +0800" end="20250527062000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527062000 +0800" end="20250527081000 +0800">
+		<title lang="zh">魅力剧场：无所畏惧（14-15）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527081000 +0800" end="20250527105100 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527105100 +0800" end="20250527134500 +0800">
+		<title lang="zh">情感剧场：爱人同志（37-39）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527134500 +0800" end="20250527154000 +0800">
+		<title lang="zh">生活剧场：小巷人家（36-37）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527154000 +0800" end="20250527180000 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527180000 +0800" end="20250527183000 +0800">
+		<title lang="zh">教育节目</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527183000 +0800" end="20250527201000 +0800">
+		<title lang="zh">五星剧场：榆阳秋（19-20）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527201000 +0800" end="20250527222500 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527222500 +0800" end="20250527224000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527224000 +0800" end="20250527225800 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527225800 +0800" end="20250527231800 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527231800 +0800" end="20250527234800 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250527234800 +0800" end="20250528003000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250528003000 +0800" end="20250528062000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<channel id="苏州生活资讯">
+		<display-name lang="zh">苏州生活资讯</display-name>
+	</channel>
+	<programme channel="苏州生活资讯" start="20250427070000 +0800" end="20250427072000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427072000 +0800" end="20250427113000 +0800">
+		<title lang="zh">早间剧场:县委大院（4-8）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427113000 +0800" end="20250427120500 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427120500 +0800" end="20250427131500 +0800">
+		<title lang="zh">宝贝看鉴</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427131500 +0800" end="20250427134000 +0800">
+		<title lang="zh">小靴子我是TV星</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427134000 +0800" end="20250427175000 +0800">
+		<title lang="zh">休闲剧场:欢迎光临（13-17）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427175000 +0800" end="20250427183500 +0800">
+		<title lang="zh">昆剧电视专场古本昆剧《红楼梦传奇》（3）昆剧传习所</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427183500 +0800" end="20250427185300 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427185300 +0800" end="20250427190800 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427190800 +0800" end="20250427193000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427193000 +0800" end="20250427200000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427200000 +0800" end="20250427203000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427203000 +0800" end="20250427213000 +0800">
+		<title lang="zh">宝贝看鉴</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427213000 +0800" end="20250427220000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427220000 +0800" end="20250427222000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427222000 +0800" end="20250427224000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250427224000 +0800" end="20250428001000 +0800">
+		<title lang="zh">青春剧场:群星闪耀时（20-21）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250428001000 +0800" end="20250428070000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522070000 +0800" end="20250522072000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522072000 +0800" end="20250522113000 +0800">
+		<title lang="zh">早间剧场:公诉（20-24）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522113000 +0800" end="20250522120000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522120000 +0800" end="20250522175000 +0800">
+		<title lang="zh">休闲剧场:特战荣耀（21-27）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522175000 +0800" end="20250522183500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（23）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522183500 +0800" end="20250522185300 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522185300 +0800" end="20250522190800 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522190800 +0800" end="20250522193000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522193000 +0800" end="20250522200000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522200000 +0800" end="20250522203000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522203000 +0800" end="20250522210000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522210000 +0800" end="20250522212000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522212000 +0800" end="20250522214000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522214000 +0800" end="20250522231000 +0800">
+		<title lang="zh">青春剧场:人生若如初相见（36-37）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250522231000 +0800" end="20250523070000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523070000 +0800" end="20250523072000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523072000 +0800" end="20250523113000 +0800">
+		<title lang="zh">早间剧场:公诉（25-29）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523113000 +0800" end="20250523120000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523120000 +0800" end="20250523175000 +0800">
+		<title lang="zh">休闲剧场:特战荣耀（28-34）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523175000 +0800" end="20250523183500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（24）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523183500 +0800" end="20250523185300 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523185300 +0800" end="20250523190800 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523190800 +0800" end="20250523193000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523193000 +0800" end="20250523200000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523200000 +0800" end="20250523203000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523203000 +0800" end="20250523210000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523210000 +0800" end="20250523212000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523212000 +0800" end="20250523214000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523214000 +0800" end="20250523231000 +0800">
+		<title lang="zh">青春剧场:人生若如初相见（38-39）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250523231000 +0800" end="20250524070000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524070000 +0800" end="20250524072000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524072000 +0800" end="20250524113000 +0800">
+		<title lang="zh">早间剧场:公诉（30-34）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524113000 +0800" end="20250524120000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524120000 +0800" end="20250524130000 +0800">
+		<title lang="zh">休闲剧场:特战荣耀（35）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524130000 +0800" end="20250524133000 +0800">
+		<title lang="zh">小靴子我是TV星</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524133000 +0800" end="20250524175000 +0800">
+		<title lang="zh">休闲剧场:特战荣耀（36-40）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524175000 +0800" end="20250524183500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（25）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524183500 +0800" end="20250524185300 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524185300 +0800" end="20250524190800 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524190800 +0800" end="20250524193000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524193000 +0800" end="20250524200000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524200000 +0800" end="20250524203000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524203000 +0800" end="20250524213000 +0800">
+		<title lang="zh">宝贝看鉴</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524213000 +0800" end="20250524220000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524220000 +0800" end="20250524222000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524222000 +0800" end="20250524224000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250524224000 +0800" end="20250525001000 +0800">
+		<title lang="zh">青春剧场:人生若如初相见（40-41）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525001000 +0800" end="20250525070000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525070000 +0800" end="20250525072000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525072000 +0800" end="20250525113000 +0800">
+		<title lang="zh">早间剧场:公诉（35-39）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525113000 +0800" end="20250525120500 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525120500 +0800" end="20250525131500 +0800">
+		<title lang="zh">宝贝看鉴</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525131500 +0800" end="20250525134000 +0800">
+		<title lang="zh">小靴子我是TV星</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525134000 +0800" end="20250525175000 +0800">
+		<title lang="zh">休闲剧场:特战荣耀（41-45）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525175000 +0800" end="20250525183500 +0800">
+		<title lang="zh">昆剧电视专场雪峰之吟厅堂版（三）江苏省苏州昆剧院</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525183500 +0800" end="20250525185300 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525185300 +0800" end="20250525190800 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525190800 +0800" end="20250525193000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525193000 +0800" end="20250525200000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525200000 +0800" end="20250525203000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525203000 +0800" end="20250525213000 +0800">
+		<title lang="zh">宝贝看鉴</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525213000 +0800" end="20250525220000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525220000 +0800" end="20250525222000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525222000 +0800" end="20250525224000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250525224000 +0800" end="20250526001000 +0800">
+		<title lang="zh">青春剧场:人生若如初相见（42-43）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526001000 +0800" end="20250526070000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526070000 +0800" end="20250526072000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526072000 +0800" end="20250526081000 +0800">
+		<title lang="zh">早间剧场:公诉（40）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526081000 +0800" end="20250526113000 +0800">
+		<title lang="zh">飞虎队（1-4）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526113000 +0800" end="20250526120500 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526120500 +0800" end="20250526131000 +0800">
+		<title lang="zh">宝贝看鉴</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526131000 +0800" end="20250526175000 +0800">
+		<title lang="zh">休闲剧场:南洋女儿情（1-6）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526175000 +0800" end="20250526183500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（26）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526183500 +0800" end="20250526185300 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526185300 +0800" end="20250526190800 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526190800 +0800" end="20250526193000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526193000 +0800" end="20250526200000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526200000 +0800" end="20250526203000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526203000 +0800" end="20250526210000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526210000 +0800" end="20250526212000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526212000 +0800" end="20250526214000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526214000 +0800" end="20250526231000 +0800">
+		<title lang="zh">青春剧场:人生若如初相见（44-45）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250526231000 +0800" end="20250527070000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527070000 +0800" end="20250527072000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527072000 +0800" end="20250527113000 +0800">
+		<title lang="zh">早间剧场:飞虎队（5-9）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527113000 +0800" end="20250527120000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527120000 +0800" end="20250527175000 +0800">
+		<title lang="zh">休闲剧场:南洋女儿情（7-13）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527175000 +0800" end="20250527183500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词《真假太子》（27）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527183500 +0800" end="20250527185300 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527185300 +0800" end="20250527190800 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527190800 +0800" end="20250527193000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527193000 +0800" end="20250527200000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527200000 +0800" end="20250527203000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527203000 +0800" end="20250527210000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527210000 +0800" end="20250527212000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527212000 +0800" end="20250527214000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527214000 +0800" end="20250527231000 +0800">
+		<title lang="zh">青春剧场:人生若如初相见（46-47）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250527231000 +0800" end="20250528070000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524070000 +0800" end="20250524073000 +0800">
+		<title lang="zh">乐活六点档 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524073000 +0800" end="20250524090500 +0800">
+		<title lang="zh">清晨影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524090500 +0800" end="20250524093000 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524093000 +0800" end="20250524111500 +0800">
+		<title lang="zh">上午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524111500 +0800" end="20250524131500 +0800">
+		<title lang="zh">午间影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524131500 +0800" end="20250524144500 +0800">
+		<title lang="zh">下午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524144500 +0800" end="20250524150500 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524150500 +0800" end="20250524170000 +0800">
+		<title lang="zh">动感影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524170000 +0800" end="20250524183000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524183000 +0800" end="20250524193000 +0800">
+		<title lang="zh">小靴子我是TV星</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524193000 +0800" end="20250524194700 +0800">
+		<title lang="zh">第一健康 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524194700 +0800" end="20250524200400 +0800">
+		<title lang="zh">食客准备 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524200400 +0800" end="20250524203000 +0800">
+		<title lang="zh">苏州财经报道 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524203000 +0800" end="20250524220000 +0800">
+		<title lang="zh">影视直通车</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524220000 +0800" end="20250524234000 +0800">
+		<title lang="zh">白金影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250524234000 +0800" end="20250525070000 +0800">
+		<title lang="zh">钻石影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525070000 +0800" end="20250525073000 +0800">
+		<title lang="zh">乐活六点档 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525073000 +0800" end="20250525090500 +0800">
+		<title lang="zh">清晨影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525090500 +0800" end="20250525093000 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525093000 +0800" end="20250525111500 +0800">
+		<title lang="zh">上午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525111500 +0800" end="20250525131500 +0800">
+		<title lang="zh">午间影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525131500 +0800" end="20250525144500 +0800">
+		<title lang="zh">下午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525144500 +0800" end="20250525150500 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525150500 +0800" end="20250525170000 +0800">
+		<title lang="zh">动感影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525170000 +0800" end="20250525183000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525183000 +0800" end="20250525193000 +0800">
+		<title lang="zh">小靴子星乐园</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525193000 +0800" end="20250525194700 +0800">
+		<title lang="zh">第一健康 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525194700 +0800" end="20250525200400 +0800">
+		<title lang="zh">食客准备 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525200400 +0800" end="20250525203000 +0800">
+		<title lang="zh">苏州财经报道 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525203000 +0800" end="20250525220000 +0800">
+		<title lang="zh">影视直通车</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525220000 +0800" end="20250525234000 +0800">
+		<title lang="zh">白金影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250525234000 +0800" end="20250526070000 +0800">
+		<title lang="zh">钻石影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526070000 +0800" end="20250526073000 +0800">
+		<title lang="zh">乐活六点档 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526073000 +0800" end="20250526090500 +0800">
+		<title lang="zh">清晨影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526090500 +0800" end="20250526093000 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526093000 +0800" end="20250526111500 +0800">
+		<title lang="zh">上午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526111500 +0800" end="20250526131500 +0800">
+		<title lang="zh">午间影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526131500 +0800" end="20250526144500 +0800">
+		<title lang="zh">下午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526144500 +0800" end="20250526150500 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526150500 +0800" end="20250526170000 +0800">
+		<title lang="zh">动感影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526170000 +0800" end="20250526183000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526183000 +0800" end="20250526193000 +0800">
+		<title lang="zh">小靴子星乐园</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526193000 +0800" end="20250526194700 +0800">
+		<title lang="zh">第一健康 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526194700 +0800" end="20250526200400 +0800">
+		<title lang="zh">食客准备 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526200400 +0800" end="20250526203000 +0800">
+		<title lang="zh">苏州财经报道 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526203000 +0800" end="20250526220000 +0800">
+		<title lang="zh">影视直通车</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526220000 +0800" end="20250526234000 +0800">
+		<title lang="zh">白金影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250526234000 +0800" end="20250527070000 +0800">
+		<title lang="zh">钻石影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527070000 +0800" end="20250527073000 +0800">
+		<title lang="zh">乐活六点档 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527073000 +0800" end="20250527090500 +0800">
+		<title lang="zh">清晨影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527090500 +0800" end="20250527093000 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527093000 +0800" end="20250527111500 +0800">
+		<title lang="zh">上午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527111500 +0800" end="20250527131500 +0800">
+		<title lang="zh">午间影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527131500 +0800" end="20250527144500 +0800">
+		<title lang="zh">下午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527144500 +0800" end="20250527150500 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527150500 +0800" end="20250527170000 +0800">
+		<title lang="zh">动感影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527170000 +0800" end="20250527183000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527183000 +0800" end="20250527193000 +0800">
+		<title lang="zh">小靴子星乐园</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527193000 +0800" end="20250527194700 +0800">
+		<title lang="zh">第一健康 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527194700 +0800" end="20250527200400 +0800">
+		<title lang="zh">食客准备 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527200400 +0800" end="20250527203000 +0800">
+		<title lang="zh">苏州财经报道 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527203000 +0800" end="20250527220000 +0800">
+		<title lang="zh">影视直通车</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527220000 +0800" end="20250527234000 +0800">
+		<title lang="zh">白金影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250527234000 +0800" end="20250528070000 +0800">
+		<title lang="zh">钻石影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528070000 +0800" end="20250528073000 +0800">
+		<title lang="zh">乐活六点档 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528073000 +0800" end="20250528090500 +0800">
+		<title lang="zh">清晨影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528090500 +0800" end="20250528093000 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528093000 +0800" end="20250528111500 +0800">
+		<title lang="zh">上午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528111500 +0800" end="20250528131500 +0800">
+		<title lang="zh">午间影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528131500 +0800" end="20250528144500 +0800">
+		<title lang="zh">下午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528144500 +0800" end="20250528150500 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528150500 +0800" end="20250528170000 +0800">
+		<title lang="zh">动感影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528170000 +0800" end="20250528183000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528183000 +0800" end="20250528193000 +0800">
+		<title lang="zh">小靴子星乐园</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528193000 +0800" end="20250528194700 +0800">
+		<title lang="zh">第一健康 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528194700 +0800" end="20250528200400 +0800">
+		<title lang="zh">食客准备 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528200400 +0800" end="20250528203000 +0800">
+		<title lang="zh">苏州财经报道 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528203000 +0800" end="20250528220000 +0800">
+		<title lang="zh">影视直通车</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528220000 +0800" end="20250528234000 +0800">
+		<title lang="zh">白金影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250528234000 +0800" end="20250529070000 +0800">
+		<title lang="zh">钻石影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529070000 +0800" end="20250529073000 +0800">
+		<title lang="zh">乐活六点档 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529073000 +0800" end="20250529090500 +0800">
+		<title lang="zh">清晨影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529090500 +0800" end="20250529093000 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529093000 +0800" end="20250529111500 +0800">
+		<title lang="zh">上午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529111500 +0800" end="20250529131500 +0800">
+		<title lang="zh">午间影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529131500 +0800" end="20250529144500 +0800">
+		<title lang="zh">下午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529144500 +0800" end="20250529150500 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529150500 +0800" end="20250529170000 +0800">
+		<title lang="zh">动感影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529170000 +0800" end="20250529183000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529183000 +0800" end="20250529193000 +0800">
+		<title lang="zh">小靴子星乐园</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529193000 +0800" end="20250529194700 +0800">
+		<title lang="zh">第一健康 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529194700 +0800" end="20250529200400 +0800">
+		<title lang="zh">食客准备 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529200400 +0800" end="20250529203000 +0800">
+		<title lang="zh">苏州财经报道 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529203000 +0800" end="20250529220000 +0800">
+		<title lang="zh">影视直通车</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529220000 +0800" end="20250529234000 +0800">
+		<title lang="zh">白金影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250529234000 +0800" end="20250530070000 +0800">
+		<title lang="zh">钻石影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530070000 +0800" end="20250530073000 +0800">
+		<title lang="zh">乐活六点档 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530073000 +0800" end="20250530090500 +0800">
+		<title lang="zh">清晨影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530090500 +0800" end="20250530093000 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530093000 +0800" end="20250530111500 +0800">
+		<title lang="zh">上午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530111500 +0800" end="20250530131500 +0800">
+		<title lang="zh">午间影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530131500 +0800" end="20250530144500 +0800">
+		<title lang="zh">下午影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530144500 +0800" end="20250530150500 +0800">
+		<title lang="zh">TV购</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530150500 +0800" end="20250530170000 +0800">
+		<title lang="zh">动感影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530170000 +0800" end="20250530183000 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530183000 +0800" end="20250530193000 +0800">
+		<title lang="zh">小靴子我是TV星</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530193000 +0800" end="20250530194700 +0800">
+		<title lang="zh">第一健康 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530194700 +0800" end="20250530200400 +0800">
+		<title lang="zh">食客准备 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530200400 +0800" end="20250530203000 +0800">
+		<title lang="zh">苏州财经报道 </title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530203000 +0800" end="20250530220000 +0800">
+		<title lang="zh">影视直通车</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530220000 +0800" end="20250530234000 +0800">
+		<title lang="zh">白金影院</title>
+	</programme>
+	<programme channel="苏州电影娱乐信息" start="20250530234000 +0800" end="20250531070000 +0800">
+		<title lang="zh">钻石影院</title>
+	</programme>
+</tv>
