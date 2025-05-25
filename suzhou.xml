@@ -1596,6 +1596,9 @@
 	<programme channel="苏州生活资讯" start="20250527231000 +0800" stop="20250528070000 +0800">
 		<title lang="zh">再见</title>
 	</programme>
+	<channel id="苏州电影娱乐信息">
+		<display-name lang="zh">苏州电影娱乐信息</display-name>
+	</channel>
 	<programme channel="苏州电影娱乐信息" start="20250524070000 +0800" stop="20250524073000 +0800">
 		<title lang="zh">乐活六点档 </title>
 	</programme>
