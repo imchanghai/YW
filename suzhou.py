@@ -8,7 +8,7 @@ import subprocess
 
 
 #write XML code to file system
-xml_str = "this is test1"
+xml_str = "this is test1".encode()
 
 save_path_file = "suzhoutest.xml"
 
