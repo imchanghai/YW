@@ -8,7 +8,7 @@ import gzip
 
 
 #write XML code to file system
-xml_str = datetime.datetime.now() + datetime.timedelta(hours=15)
+xml_str = datetime.datetime.now() + datetime.timedelta(hours=8)
 xml_str = xml_str.isoformat().encode()
 save_path_file = "suzhoutest.xml"
 
