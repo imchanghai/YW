@@ -9,9 +9,12 @@ import gzip
 
 #write XML code to file system
 xml_str = datetime.datetime.now() + datetime.timedelta(hours=15)
-
+xml_str = xml_str.isoformat().encode()
 save_path_file = "suzhoutest.xml"
 
 with open(save_path_file, "wb") as f:
-    f.write(xml_str.isoformat().encode()) 
+    f.write(xml_str) 
     
+f = gzip.open('suzhoutest.xml.gz', 'wb')
+f.write(xml_str)
+f.close()
