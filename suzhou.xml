@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv info-name="by Yikun Wang" info-url="https://yikunwang.com">
 	<channel id="苏州新闻综合">
-		<display-name lang="zh">苏州新闻综合</display-name>
+		<display-name>苏州新闻综合</display-name>
 	</channel>
 	<programme channel="苏州新闻综合" start="20260511070000 +0800" stop="20260511074500 +0800">
 		<title lang="zh">苏州新闻</title>
@@ -539,7 +539,7 @@
 		<title lang="zh">星梦剧场</title>
 	</programme>
 	<channel id="苏州社会经济">
-		<display-name lang="zh">苏州社会经济</display-name>
+		<display-name>苏州社会经济</display-name>
 	</channel>
 	<programme channel="苏州社会经济" start="20260511065000 +0800" stop="20260511074000 +0800">
 		<title lang="zh">动漫剧场</title>
@@ -1185,7 +1185,7 @@
 		<title lang="zh">深夜剧场</title>
 	</programme>
 	<channel id="苏州文化生活">
-		<display-name lang="zh">苏州文化生活</display-name>
+		<display-name>苏州文化生活</display-name>
 	</channel>
 	<programme channel="苏州文化生活" start="20260511062000 +0800" stop="20260511081000 +0800">
 		<title lang="zh">魅力剧场</title>
@@ -1510,7 +1510,7 @@
 		<desc>夜已深，祝你有个好梦， 晚安。</desc>
 	</programme>
 	<channel id="苏州电影娱乐信息">
-		<display-name lang="zh">苏州电影娱乐信息</display-name>
+		<display-name>苏州电影娱乐信息</display-name>
 	</channel>
 	<programme channel="苏州电影娱乐信息" start="20260511070000 +0800" stop="20260511073000 +0800">
 		<title lang="zh">乐活制造</title>
@@ -1821,7 +1821,7 @@
 		<title lang="zh">钻石影院</title>
 	</programme>
 	<channel id="苏州生活资讯">
-		<display-name lang="zh">苏州生活资讯</display-name>
+		<display-name>苏州生活资讯</display-name>
 	</channel>
 	<programme channel="苏州生活资讯" start="20260511070000 +0800" stop="20260511072000 +0800">
 		<title lang="zh">吴中报道</title>
